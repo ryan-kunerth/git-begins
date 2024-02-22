@@ -1,0 +1,3 @@
+git push origin <nom_branche>
+git push -u origin <nom_banche>
+git push -u origin <nom_branche>
